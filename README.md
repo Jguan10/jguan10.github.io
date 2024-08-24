@@ -15,8 +15,8 @@
     <img src = "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" 
         alt ="Github Badge">
   </a>
-  <a href = "resume.pdf">
-    resume here
+  <a href = "Resume.pdf">
+    Resume here
     </a>
 </div>
 
