@@ -1,5 +1,7 @@
 # Hello There!
 
+<img src = "Jason.jpg">
+
 ### Greetings and welcome to my page! My name is Jiaxiong Guan but I prefer Jason!
 ### I'm a CS student at CUNY Hunter College looking to pursue data science.
 ### I love writing poems, watching anime, and learning where the best spots to eat are!
