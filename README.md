@@ -1,13 +1,18 @@
 # Hello There!
 
-### Greetings and welcome to my page! My name is Jiaxiong Guan but I also go by Jason!
+### Greetings and welcome to my page! My name is Jiaxiong Guan but I prefer Jason!
 ### I'm a CS student at CUNY Hunter College looking to pursue data science.
 ### I love writing poems, watching anime, and learning where the best spots to eat are!
 ### I hope you enjoy your stay and feel free to reach out and contact me:
 <div class = "badges">
   <a href = "https://www.linkedin.com/in/jiaxiong-guan/">
-    <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt ="LinkedIn Badge">
+    <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
+        alt ="LinkedIn Badge">
   </a>
+  <a href = "mailto:jasoguan10@gmail.com">
+    <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
+        alt = "Gmail Badge">
+    </a>
 </div>
 
 
