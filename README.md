@@ -9,6 +9,10 @@
     <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
         alt ="LinkedIn Badge">
   </a>
+  <a href = "https://github.com/Jguan10">
+    <img src = "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" 
+        alt ="Github Badge">
+  </a>
 </div>
 
 
