@@ -16,7 +16,7 @@
         alt ="Github Badge">
   </a>
   <a href = "Resume.pdf">
-    Resume here
+    <img src = "resume-icon.png" alt = "Resume Badge">
     </a>
 </div>
 
